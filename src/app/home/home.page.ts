@@ -9,5 +9,6 @@ import { Component } from '@angular/core';
 export class HomePage {
 
   constructor() {}
-
+  myname: string = "V. A.!"
+  mylist: string[] = ["Rose", "Teya", "Erika"]
 }
